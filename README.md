@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub profile.
 
-- :computer: I'm a fulltime working on Embedded Systems Development since 2005.
+- :computer: I'm fulltime working on Embedded Systems Development since 2005.
 - :mortar_board: I studied Electronics Engineering. 
 - :earth_africa: Based in: Mumbai, India
 - :ghost: Profiles: [Linkedin](https://www.linkedin.com/in/umesh-walkar/)
